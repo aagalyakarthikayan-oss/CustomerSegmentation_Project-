@@ -1,0 +1,5 @@
+Segment_Name,Customers,Avg_Recency,Avg_Frequency,Avg_Spend,Avg_Discount,Total_Revenue,Total_Profit
+Loyal Customers,164,247.01,5.3,7948.27,0.09,1303517.09,122645.97
+Champions (High Value),112,41.61,6.84,8040.69,0.1,900557.39,89773.79
+At-Risk / Lost,71,316.18,3.31,2205.75,0.18,156608.29,8361.86
+Occasional / New,48,305.81,2.67,943.41,0.03,45283.73,5638.24
